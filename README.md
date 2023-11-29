@@ -4,6 +4,7 @@ I was able to clean data with the help of SQL SSMS tool. An interesting challeng
 
 # The first step was to identify how best we could clean the dataset
 Some of the things that was to dealt with in order to tranform the dataset to clean were:
+
     1.  Standardising the 'SaleDate'.
     
     2.  Breaking the 'PropertyAddress' and the 'OwnerAddress' into individual columns.
